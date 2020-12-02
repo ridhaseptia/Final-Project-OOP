@@ -75,6 +75,9 @@ Deploying :
 - Timer.cs
 - TransparentBush.cs
 
+## Class Diagram
+![alt text](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/654070f4-d406-4911-a8ba-d56e237203cb/Witchnesia-ClassDiagram-Battleground.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201202T041615Z&X-Amz-Expires=86400&X-Amz-Signature=0f9ff14c1d0117adfbbf5f7bac06ba23ac21ee21485f7112adddb04679f01c19&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Witchnesia-ClassDiagram-Battleground.png%22)
+
 
 ## Notable Assumption and Design App Details
 
