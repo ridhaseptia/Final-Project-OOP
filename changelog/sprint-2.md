@@ -20,7 +20,7 @@
 | 2.2 | Fog Of War | Dio | DONE |
 | 2.3 | Photon test Part 2 | Dio | DONE |
 | 2.4 | Guardian chase, patrol, attack | Dio | DONE |
-| 2.5 | Testing | Ridha | DONE |
+| 2.5 | Testing Sprint 2 | Ridha | DONE |
 
 ## Retrospective 
 
