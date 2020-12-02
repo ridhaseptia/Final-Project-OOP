@@ -1,25 +1,27 @@
 # Scrum Report (Sprint 3)
-| From dd/mm/yyyy to dd/mm/yyyy
+| From 01/12/2020 to 08/11/2020
 
-## Team (Insert your name)
+## Team JOJO AND DIO
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810140054  | Ridha Septia    |
+| 140810160005  | Dio Tri Satyaloka    |
+
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| 5             | 5             |
 
 ## Sprint 3 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 | Preparing the x | Jane Doe | DONE |
-| 3.2 | Make the x | John Doe | FAILED |
-
+| 3.1 | Mini Boss | Dio | DONE |
+| 3.2 | FSM - Spell System Prototype | Dio | DONE |
+| 3.3 | The Weather Event | Dio | DONE |
+| 3.4 | Implementation Networking | Dio | DONE |
+| 3.5 | Testing Sprint 3 | Ridha | DONE |
 ## Retrospective 
 
 Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
