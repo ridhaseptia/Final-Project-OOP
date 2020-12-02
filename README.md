@@ -4,7 +4,7 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 
 [Challenge Guidelines](challenge-guideline.md)
 
-**WitchGame: Magical Battle Arena adalah Dungeon Multiplayer Twin-Stick Shooter di mana Para Pemain sebagai Penyihir, bersaing satu sama lain di ruang bawah tanah sambil menghindari jebakan dan  perubahan lingkungan. Pemenangnya adalah orang yang mengumpulkan orb dari ruang bawah tanah, dengan cara mengeliminasi pemain lain atau Membunuh monster Penjaga yang bersembunyi di ruang bawah tanah. **
+WitchGame: Magical Battle Arena adalah Dungeon Multiplayer Twin-Stick Shooter di mana Para Pemain sebagai Penyihir, bersaing satu sama lain di ruang bawah tanah sambil menghindari jebakan dan  perubahan lingkungan. Pemenangnya adalah orang yang mengumpulkan orb dari ruang bawah tanah, dengan cara mengeliminasi pemain lain atau Membunuh monster Penjaga yang bersembunyi di ruang bawah tanah. 
 
 ## Credits
 | NPM           | Name              |
@@ -14,7 +14,7 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 
 
 ## Change log
-- **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
+- **[Sprint Planning](changelog/sprint-planning.md) - (17/11/2020)** 
    -  Short changes 1
    - Short changes 2
 
