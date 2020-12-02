@@ -5,7 +5,7 @@
 | NPM           | Name        |
 | ------------- |-------------|
 | 140810140054  | Ridha Septia    |
-| 140810160005  | Dio Tri Satya    |
+| 140810160005  | Dio Tri Satyaloka    |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
@@ -16,15 +16,21 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Preparing the x | Jane Doe | DONE |
-| 2.2 | Make the x | John Doe | FAILED |
+| 2.1 | Player Score | Dio | DONE |
+| 2.2 | Fog Of War | Dio | DONE |
+| 2.3 | Photon test Part 2 | Dio | DONE |
+| 2.4 | Guardian chase, patrol, attack | Dio | DONE |
+| 2.5 | Testing | Ridha | DONE |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Karena Kesibukan masing-masing, walaupun target semua terpenuhi, masih banyak ditemukan kekurangan yang harus diperbaiki dan dievaluasi kembali
 
 ## Next Sprint Backlog (Sprint 3)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 3.1 | Preparing the x | Jane Doe | 
-| 3.2 | Make the x | John Doe | 
+| 3.1 | Mini Bos | Dio |
+| 3.2 |FSM - Spell System Prototype | Dio | 
+| 3.3 | The Weather Event | Dio |
+| 3.4 | Implementation Networking | Dio |
+| 3.5 | Testing | Ridha |
