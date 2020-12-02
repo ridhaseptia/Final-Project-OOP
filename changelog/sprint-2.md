@@ -1,17 +1,16 @@
 # Scrum Report (Sprint 2)
-| From dd/mm/yyyy to dd/mm/yyyy
+| (date from 23/11/2020 until 30/11/2020)
 
-## Team (Insert your name)
+## Team JOJO AND DIO
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810140054  | Ridha Septia    |
+| 140810160005  | Dio Tri Satya    |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| 5             | 5             |
 
 ## Sprint 2 Backlog
 
