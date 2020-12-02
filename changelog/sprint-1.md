@@ -20,7 +20,7 @@
 | 1.2 | Player Movement | Dio | DONE |
 | 1.3 | Health and Shooting | Dio | DONE |
 | 1.4 | Spells Development | Dio | DONE |
-| 1.5 | Testing | Ridha | DONE |
+| 1.5 | Testing Sprint 1| Ridha | DONE |
 ## Retrospective 
 
 Stuktur Kodingan masih belum rapi
