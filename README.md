@@ -37,13 +37,44 @@ WitchGame: Magical Battle Arena adalah Dungeon Multiplayer Twin-Stick Shooter di
 
 ## Running The App
 
-TO;DO with steps
+Testing : 
+- Compile di Unity
+- Klik Run untuk Test-run lewat Editor
+
+Deploying : 
+- Compile di Unity
+- Build app sesuai target platform
+- Run lewat hasil Build
 
 ## Classes Used
 
-TO;DO
+- BulletBehavior.cs
+- DamageTrap.cs
+- DungeonAudio.cs
+- FadeAudioSource.cs
+- FieldOfView.cs
+- GameManager.cs
+- GameSetting.cs
+- JoystickScaler.cs
+- LobbyAudio.cs
+- MasterManager.cs
+- OpenChest.cs
+- PhotonConnect.cs
+- PlaneCollider.cs
+- PlayerManager.cs
+- PlayerMovement.cs
+- PlayerShoot.cs
+- PlayerTagChanger.cs
+- PlayerUi.cs
+- PositionOfTraps.cs
+- SingletonScriptableObject.cs
+- SpawnThunders.cs
+- SpellCastBound.cs
+- StartMatch.cs
+- ThunderManager.cs
+- Timer.cs
+- TransparentBush.cs
 
-UML image here
 
 ## Notable Assumption and Design App Details
 
