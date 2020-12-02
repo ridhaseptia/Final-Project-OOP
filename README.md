@@ -1,17 +1,17 @@
-# Project Name
+# WITCHGAME : MAGICAL BATTLE ARENA
 
 This repository is a final project (Java GUI) from Object-Oriented Programming Class, Teknik Informatika Universitas Padjadjaran. 
 
 [Challenge Guidelines](challenge-guideline.md)
 
-**Please create a description for this project here**
+**WitchGame: Magical Battle Arena adalah Dungeon Multiplayer Twin-Stick Shooter di mana Para Pemain sebagai Penyihir, bersaing satu sama lain di ruang bawah tanah sambil menghindari jebakan dan  perubahan lingkungan. Pemenangnya adalah orang yang mengumpulkan orb dari ruang bawah tanah, dengan cara mengeliminasi pemain lain atau Membunuh monster Penjaga yang bersembunyi di ruang bawah tanah. **
 
 ## Credits
-| NPM           | Name        |
-| ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| NPM           | Name              |
+| ------------- |-------------------|
+| 140810140054  | Ridha Septia      |
+| 140810160005  | Dio Tri Satyaloka |
+
 
 ## Change log
 - **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
