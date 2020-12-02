@@ -36,4 +36,4 @@
 
 ## Retrospective 
 
-Pada Sprint 1, struktur Kodingan masih cukup berantakan dan pada sprint 2, karena keterbatasan waktu target tetap terpenuhi akan tetapi 
+Pada Sprint 1, struktur Kodingan masih cukup berantakan dan pada sprint 2, karena keterbatasan waktu target tetap terpenuhi akan tetapi ditemukan kekurangan yang harus dievaluasi
