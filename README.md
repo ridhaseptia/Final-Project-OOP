@@ -15,20 +15,25 @@ WitchGame: Magical Battle Arena adalah Dungeon Multiplayer Twin-Stick Shooter di
 
 ## Change log
 - **[Sprint Planning](changelog/sprint-planning.md) - (17/11/2020)** 
-   -  Short changes 1
-   - Short changes 2
+   - Discussion about the planning of the project
 
-- **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 1](changelog/sprint-1.md) -  (date from 17/11/2020 until 22/11/2020)** 
+   - Photon Test Part 1
+   - Player Movement 
+   - Health and shooting
+   - Spells development
 
-- **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 2](changelog/sprint-2.md) - (date from 23/11/2020 until 30/11/2020)** 
+   - Player Score
+   - Fog of War
+   - Photon Test Part 2
+   - Guardian chase, patrol, attack
    
 - **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+   - Mini Boss
+   - FSM - Spell System Prototype
+   - The Weather Event
+   - Implementation Networking
 
 ## Running The App
 
